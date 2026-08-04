@@ -482,6 +482,8 @@ payload:
   - DOMAIN,tf-feedback.itunes.apple.com:@cn
   - DOMAIN,time.xtracloud.net:@cn
   - DOMAIN,tj-pod1-smp-device.apple.com:@cn
+  - DOMAIN,tj-pod2-smp-device.apple.com:@cn
+  - DOMAIN,tj-pod3-smp-device.apple.com:@cn
   - DOMAIN,tp.louisvuitton.com:@cn
   - DOMAIN,universal-activity-service.itunes.apple.com:@cn
   - DOMAIN,update.crashlytics.com:@cn
