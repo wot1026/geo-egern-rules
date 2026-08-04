@@ -1,6 +1,6 @@
 # geo-egern-rules
 
-自动构建的 Egern / Loon 分类规则集，思路参考自 [xishang0128/rules](https://github.com/xishang0128/rules) 的上游数据源与去冗余方法，但输出格式改为 Egern YAML 和 Loon `.list` 纯文本规则（而非 geosite/geoip 二进制库），便于直接在 Egern / Loon 配置里按 URL 引用。
+自动构建的 Egern / Loon 分类规则集，思路参考自 MetaCubeX/meta-rules-dat 的上游数据源与去冗余方法，但输出格式改为 Egern YAML 和 Loon `.list` 纯文本规则（而非 geosite/geoip 二进制库），便于直接在 Egern / Loon 配置里按 URL 引用。
 
 ## 目录结构
 
