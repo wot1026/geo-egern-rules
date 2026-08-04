@@ -1,0 +1,58 @@
+name: Build Egern/Loon rules
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 22 * * *"  # 6:30 AM UTC+8，与 xishang0128/rules 的调度错开，避免上游同时被大量拉取
+  push:
+    branches: [main]
+    paths:
+      - "sources.yaml"
+      - "scripts/**"
+      - ".github/workflows/build.yml"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Build rules
+        run: python3 scripts/build.py
+
+      - name: Check for changes
+        id: git_check
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push
+        if: steps.git_check.outputs.changed == 'true'
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          BUILDTIME=$(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M')
+          git commit -m "Auto build: ${BUILDTIME}"
+          git push
+
+      - name: Purge jsDelivr CDN cache
+        if: steps.git_check.outputs.changed == 'true'
+        run: |
+          for f in egern/*.yaml loon/*.list; do
+            curl -s -o /dev/null "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/${f}"
+          done
