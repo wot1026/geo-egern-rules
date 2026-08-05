@@ -79,7 +79,12 @@ def parse_domain_list_custom(text: str, exclude_keywords=None, exclude_suffix_cn
       full:example.com
       regexp:^example
       keyword:example
-      domain:example.com @cn      <- @cn 标记的属性，按需过滤
+      full:example.com:@cn      <- 冒号+@ 标记的属性，例如 @cn @ads @!cn 等，需要剥离
+      domain:example.com @cn    <- 部分文件里是空格分隔，也一并兼容
+
+    实测该仓库的属性标注实际写法是紧跟在域名后面用 ":@attr" 分隔（无空格），
+    例如 "full:cdn.apple-mapkit.com:@cn"。之前的实现只处理了空格分隔的写法，
+    导致 ":@cn" 被当成域名的一部分保留了下来，产出脏数据。这里同时兼容两种写法。
     """
     exclude_keywords = exclude_keywords or []
     out = []
@@ -89,8 +94,8 @@ def parse_domain_list_custom(text: str, exclude_keywords=None, exclude_suffix_cn
             continue
         if any(kw in line for kw in exclude_keywords):
             continue
-        # 去掉 @attr 后缀
-        line = re.split(r"\s+@", line)[0].strip()
+        # 去掉 @attr 后缀：兼容 ":@attr"（无空格，实际最常见）和 " @attr"（空格分隔）两种写法
+        line = re.split(r":?\s*@", line)[0].strip()
         m = re.match(r"^(domain|full|regexp|keyword):(.+)$", line)
         if not m:
             continue
