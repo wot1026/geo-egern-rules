@@ -5,12 +5,6 @@ payload:
   - DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
   - DOMAIN,adobeereg.com
   - DOMAIN,agb9r0ad.qllfkl.com
-  - DOMAIN,alt1-mtalk.google.com:@!cn
-  - DOMAIN,alt2-mtalk.google.com:@!cn
-  - DOMAIN,alt3-mtalk.google.com:@!cn
-  - DOMAIN,alt4-mtalk.google.com:@!cn
-  - DOMAIN,alt5-mtalk.google.com:@!cn
-  - DOMAIN,alt6-mtalk.google.com:@!cn
   - DOMAIN,angle.com.tw
   - DOMAIN,api-p.videomarket.jp
   - DOMAIN,bbs.boingboing.net
@@ -46,7 +40,6 @@ payload:
   - DOMAIN,link.theplatform.com
   - DOMAIN,live-patreon-marketing.pantheonsite.io
   - DOMAIN,medone-education.thieme.com
-  - DOMAIN,mtalk.google.com:@!cn
   - DOMAIN,muse.jhu.edu
   - DOMAIN,nbbb1bb7.pmhcjk.com
   - DOMAIN,ntp-c.colorado.edu
@@ -64,14 +57,13 @@ payload:
   - DOMAIN,ntppool1.time.nl
   - DOMAIN,ntppool2.time.nl
   - DOMAIN,ood.opsource.net
-  - DOMAIN,p16-tiktokcdn-com.akamaized.net:@!cn
   - DOMAIN,public-us-pingsx.api.clonoth.com
   - DOMAIN,q676790b.pmhcjk.com
   - DOMAIN,rink.hockeyapp.net
-  - DOMAIN,roovza-launches.appsflyersdk.com:@!cn
-  - DOMAIN,roovza.inapps.appsflyersdk.com:@!cn
-  - DOMAIN,roovza.launches.appsflyersdk.com:@!cn
-  - DOMAIN,roovza.skadsdk.appsflyersdk.com:@!cn
+  - DOMAIN,roovza-launches.appsflyersdk.com
+  - DOMAIN,roovza.inapps.appsflyersdk.com
+  - DOMAIN,roovza.launches.appsflyersdk.com
+  - DOMAIN,roovza.skadsdk.appsflyersdk.com
   - DOMAIN,rss.4040940.xyz
   - DOMAIN,rss.datuan.dev
   - DOMAIN,rss.littlebaby.life
@@ -1302,14 +1294,14 @@ payload:
   - DOMAIN-SUFFIX,aliassystems.com
   - DOMAIN-SUFFIX,aliasvisualizationstudio.com
   - DOMAIN-SUFFIX,aliaswavefront.com
-  - DOMAIN-SUFFIX,alibabacloud.co.in:@!cn
-  - DOMAIN-SUFFIX,alibabacloud.com.au:@!cn
-  - DOMAIN-SUFFIX,alibabacloud.com.hk:@!cn
-  - DOMAIN-SUFFIX,alibabacloud.com.my:@!cn
-  - DOMAIN-SUFFIX,alibabacloud.com.sg:@!cn
-  - DOMAIN-SUFFIX,alibabacloud.com.tw:@!cn
-  - DOMAIN-SUFFIX,alibabacloud.com:@!cn
-  - DOMAIN-SUFFIX,alicloud.com:@!cn
+  - DOMAIN-SUFFIX,alibabacloud.co.in
+  - DOMAIN-SUFFIX,alibabacloud.com
+  - DOMAIN-SUFFIX,alibabacloud.com.au
+  - DOMAIN-SUFFIX,alibabacloud.com.hk
+  - DOMAIN-SUFFIX,alibabacloud.com.my
+  - DOMAIN-SUFFIX,alibabacloud.com.sg
+  - DOMAIN-SUFFIX,alibabacloud.com.tw
+  - DOMAIN-SUFFIX,alicloud.com
   - DOMAIN-SUFFIX,alienware.ae
   - DOMAIN-SUFFIX,alienware.at
   - DOMAIN-SUFFIX,alienware.be
@@ -4432,8 +4424,8 @@ payload:
   - DOMAIN-SUFFIX,bypasscensorship.org
   - DOMAIN-SUFFIX,byspotify.com
   - DOMAIN-SUFFIX,bystys.tech
-  - DOMAIN-SUFFIX,bytedapm.com:@!cn
-  - DOMAIN-SUFFIX,byteoversea.com:@!cn
+  - DOMAIN-SUFFIX,bytedapm.com
+  - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,bytick.com
   - DOMAIN-SUFFIX,c-ij.com
   - DOMAIN-SUFFIX,c-msedge.net
@@ -4973,9 +4965,9 @@ payload:
   - DOMAIN-SUFFIX,cian.site
   - DOMAIN-SUFFIX,ciangroup.ru
   - DOMAIN-SUFFIX,ciattackers.com
-  - DOMAIN-SUFFIX,cici.com:@!cn
-  - DOMAIN-SUFFIX,ciciai.com:@!cn
-  - DOMAIN-SUFFIX,ciciaicdn.com:@!cn
+  - DOMAIN-SUFFIX,cici.com
+  - DOMAIN-SUFFIX,ciciai.com
+  - DOMAIN-SUFFIX,ciciaicdn.com
   - DOMAIN-SUFFIX,ciciq.net
   - DOMAIN-SUFFIX,cilk.com
   - DOMAIN-SUFFIX,cilk.net
@@ -5396,7 +5388,7 @@ payload:
   - DOMAIN-SUFFIX,covid19-rx.org
   - DOMAIN-SUFFIX,covid19rx.org
   - DOMAIN-SUFFIX,cowboom.com
-  - DOMAIN-SUFFIX,coze.com:@!cn
+  - DOMAIN-SUFFIX,coze.com
   - DOMAIN-SUFFIX,cozydrdrebeats.com
   - DOMAIN-SUFFIX,cp44.net
   - DOMAIN-SUFFIX,cpan.org
@@ -6354,7 +6346,7 @@ payload:
   - DOMAIN-SUFFIX,dojinmanga.net
   - DOMAIN-SUFFIX,dojinwatch.com
   - DOMAIN-SUFFIX,dokusho-ojikan.jp
-  - DOMAIN-SUFFIX,dola.com:@!cn
+  - DOMAIN-SUFFIX,dola.com
   - DOMAIN-SUFFIX,dollarfotoclub.com
   - DOMAIN-SUFFIX,dollarphotoclub.com
   - DOMAIN-SUFFIX,dollarphotosclub.com
@@ -7270,8 +7262,8 @@ payload:
   - DOMAIN-SUFFIX,esmarthealth.com
   - DOMAIN-SUFFIX,esmatube.com
   - DOMAIN-SUFFIX,esopworld.com
-  - DOMAIN-SUFFIX,esp32.com:@!cn
-  - DOMAIN-SUFFIX,esp8266.com:@!cn
+  - DOMAIN-SUFFIX,esp32.com
+  - DOMAIN-SUFFIX,esp8266.com
   - DOMAIN-SUFFIX,espadoldettol.com.ar
   - DOMAIN-SUFFIX,esperanzagomez.org
   - DOMAIN-SUFFIX,espn.co.uk
@@ -7281,7 +7273,7 @@ payload:
   - DOMAIN-SUFFIX,espnqa.com
   - DOMAIN-SUFFIX,esports.gg
   - DOMAIN-SUFFIX,esposasymaridos.com
-  - DOMAIN-SUFFIX,espressif.com:@!cn
+  - DOMAIN-SUFFIX,espressif.com
   - DOMAIN-SUFFIX,esri.com
   - DOMAIN-SUFFIX,esrt.online
   - DOMAIN-SUFFIX,esrt.press
@@ -12985,7 +12977,7 @@ payload:
   - DOMAIN-SUFFIX,markingmenus.com
   - DOMAIN-SUFFIX,markzuckerberg.com
   - DOMAIN-SUFFIX,marranazas.com
-  - DOMAIN-SUFFIX,marscode.com:@!cn
+  - DOMAIN-SUFFIX,marscode.com
   - DOMAIN-SUFFIX,marvel.com
   - DOMAIN-SUFFIX,marvel10thanniversary.com
   - DOMAIN-SUFFIX,marveldimensionofheroes.com
@@ -14234,11 +14226,11 @@ payload:
   - DOMAIN-SUFFIX,muryouav.net
   - DOMAIN-SUFFIX,musashinobank.co.jp
   - DOMAIN-SUFFIX,muscache.com
-  - DOMAIN-SUFFIX,muscdn.com:@!cn
+  - DOMAIN-SUFFIX,muscdn.com
   - DOMAIN-SUFFIX,musclegirlflix.com
   - DOMAIN-SUFFIX,mushroomtrack.com
   - DOMAIN-SUFFIX,mushymush.tv
-  - DOMAIN-SUFFIX,musical.ly:@!cn
+  - DOMAIN-SUFFIX,musical.ly
   - DOMAIN-SUFFIX,musicbay.net
   - DOMAIN-SUFFIX,musicbrainz.org
   - DOMAIN-SUFFIX,musickit.net
@@ -19821,29 +19813,24 @@ payload:
   - DOMAIN-SUFFIX,tiffany-towers.com
   - DOMAIN-SUFFIX,tig-ol-bitties.live
   - DOMAIN-SUFFIX,tigerbbs.com
-  - DOMAIN-SUFFIX,tik-tokapi.com:@!cn
-  - DOMAIN-SUFFIX,tiktok-minis.com:@!cn
-  - DOMAIN-SUFFIX,tiktok-row.net:@!cn
-  - DOMAIN-SUFFIX,tiktok.com:@!cn
-  - DOMAIN-SUFFIX,tiktokcdn-eu.com:@!cn
-  - DOMAIN-SUFFIX,tiktokcdn-us.com.edgesuite.net:@!cn
-  - DOMAIN-SUFFIX,tiktokcdn-us.com:@!cn
-  - DOMAIN-SUFFIX,tiktokcdn.com.akamaized.net:@!cn
-  - DOMAIN-SUFFIX,tiktokcdn.com.edgesuite.net:@!cn
-  - DOMAIN-SUFFIX,tiktokcdn.com:@!cn
-  - DOMAIN-SUFFIX,tiktokd.net:@!cn
-  - DOMAIN-SUFFIX,tiktokd.org:@!cn
-  - DOMAIN-SUFFIX,tiktokeu-cdn.com:@!cn
-  - DOMAIN-SUFFIX,tiktokglobalshopv.com:@!cn
-  - DOMAIN-SUFFIX,tiktokminis.us:@!cn
-  - DOMAIN-SUFFIX,tiktokrow-cdn.com:@!cn
-  - DOMAIN-SUFFIX,tiktokv.com.edgekey.net:@!cn
-  - DOMAIN-SUFFIX,tiktokv.com.edgesuite.net:@!cn
-  - DOMAIN-SUFFIX,tiktokv.com:@!cn
-  - DOMAIN-SUFFIX,tiktokv.eu:@!cn
-  - DOMAIN-SUFFIX,tiktokv.us:@!cn
-  - DOMAIN-SUFFIX,tiktokw.eu:@!cn
-  - DOMAIN-SUFFIX,tiktokw.us:@!cn
+  - DOMAIN-SUFFIX,tik-tokapi.com
+  - DOMAIN-SUFFIX,tiktok-minis.com
+  - DOMAIN-SUFFIX,tiktok-row.net
+  - DOMAIN-SUFFIX,tiktok.com
+  - DOMAIN-SUFFIX,tiktokcdn-eu.com
+  - DOMAIN-SUFFIX,tiktokcdn-us.com
+  - DOMAIN-SUFFIX,tiktokcdn.com
+  - DOMAIN-SUFFIX,tiktokd.net
+  - DOMAIN-SUFFIX,tiktokd.org
+  - DOMAIN-SUFFIX,tiktokeu-cdn.com
+  - DOMAIN-SUFFIX,tiktokglobalshopv.com
+  - DOMAIN-SUFFIX,tiktokminis.us
+  - DOMAIN-SUFFIX,tiktokrow-cdn.com
+  - DOMAIN-SUFFIX,tiktokv.com
+  - DOMAIN-SUFFIX,tiktokv.eu
+  - DOMAIN-SUFFIX,tiktokv.us
+  - DOMAIN-SUFFIX,tiktokw.eu
+  - DOMAIN-SUFFIX,tiktokw.us
   - DOMAIN-SUFFIX,tilda.cc
   - DOMAIN-SUFFIX,tilda.ru
   - DOMAIN-SUFFIX,tilda.ws
@@ -20013,7 +20000,7 @@ payload:
   - DOMAIN-SUFFIX,tracking-location.com
   - DOMAIN-SUFFIX,tradevip1.com
   - DOMAIN-SUFFIX,tradingview.com
-  - DOMAIN-SUFFIX,trae.ai:@!cn
+  - DOMAIN-SUFFIX,trae.ai
   - DOMAIN-SUFFIX,trafficmanager.net
   - DOMAIN-SUFFIX,tranny.one
   - DOMAIN-SUFFIX,trannygem.com
@@ -20135,12 +20122,12 @@ payload:
   - DOMAIN-SUFFIX,tsundora.com
   - DOMAIN-SUFFIX,tsuradou.noonvob.com
   - DOMAIN-SUFFIX,tsyum.com
-  - DOMAIN-SUFFIX,ttcdn-us.com:@!cn
+  - DOMAIN-SUFFIX,ttcdn-us.com
   - DOMAIN-SUFFIX,tteshop.com
-  - DOMAIN-SUFFIX,ttlivecdn.com:@!cn
-  - DOMAIN-SUFFIX,ttoverseaus.net:@!cn
+  - DOMAIN-SUFFIX,ttlivecdn.com
+  - DOMAIN-SUFFIX,ttoverseaus.net
   - DOMAIN-SUFFIX,ttvnw.net
-  - DOMAIN-SUFFIX,ttwstatic.com:@!cn
+  - DOMAIN-SUFFIX,ttwstatic.com
   - DOMAIN-SUFFIX,tube-pornomovs.com
   - DOMAIN-SUFFIX,tube-sex-videos.com
   - DOMAIN-SUFFIX,tube.bz
@@ -21568,7 +21555,7 @@ payload:
   - DOMAIN-SUFFIX,webmademovies.org
   - DOMAIN-SUFFIX,webmoneyinfo.com
   - DOMAIN-SUFFIX,webmproject.org
-  - DOMAIN-SUFFIX,webnovel.com:@!cn
+  - DOMAIN-SUFFIX,webnovel.com
   - DOMAIN-SUFFIX,webobjects.co.uk
   - DOMAIN-SUFFIX,webobjects.com
   - DOMAIN-SUFFIX,webobjects.de
