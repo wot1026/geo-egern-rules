@@ -29242,7 +29242,6 @@ payload:
   - DOMAIN-SUFFIX,+.douyincloud.run
   - DOMAIN-SUFFIX,+.douyinhanyu.com
   - DOMAIN-SUFFIX,+.douyinmusicclips.com
-  - DOMAIN-SUFFIX,+.douyinmusicpromotion.com
   - DOMAIN-SUFFIX,+.douyinmusicvideo.com
   - DOMAIN-SUFFIX,+.douyinshortvideo.com
   - DOMAIN-SUFFIX,+.douyinvideo.net
@@ -30683,7 +30682,6 @@ payload:
   - DOMAIN-SUFFIX,+.eciticcfc.com
   - DOMAIN-SUFFIX,+.ecjson.com
   - DOMAIN-SUFFIX,+.eckgxbfa.com
-  - DOMAIN-SUFFIX,+.eckwai.com
   - DOMAIN-SUFFIX,+.ecloud.hk
   - DOMAIN-SUFFIX,+.ecmc-nj.com
   - DOMAIN-SUFFIX,+.ecmould.com
@@ -56020,6 +56018,7 @@ payload:
   - DOMAIN-SUFFIX,+.kesion.com
   - DOMAIN-SUFFIX,+.kesiyunlai.com
   - DOMAIN-SUFFIX,+.kesonco.com
+  - DOMAIN-SUFFIX,+.kesong.co
   - DOMAIN-SUFFIX,+.kesong520.com
   - DOMAIN-SUFFIX,+.kesonic.com
   - DOMAIN-SUFFIX,+.ketechdigital.com
@@ -57328,14 +57327,11 @@ payload:
   - DOMAIN-SUFFIX,+.kwairtc.com
   - DOMAIN-SUFFIX,+.kwaisczway7r4tz7m8.com
   - DOMAIN-SUFFIX,+.kwaiselfcdn.com
-  - DOMAIN-SUFFIX,+.kwaishop.com
   - DOMAIN-SUFFIX,+.kwaishouapp.com
   - DOMAIN-SUFFIX,+.kwaishouapp.net
   - DOMAIN-SUFFIX,+.kwaitalk.com
   - DOMAIN-SUFFIX,+.kwaitv.com
   - DOMAIN-SUFFIX,+.kwaiww7t3qi8x217.com
-  - DOMAIN-SUFFIX,+.kwaixiaodian.com
-  - DOMAIN-SUFFIX,+.kwaiying.com
   - DOMAIN-SUFFIX,+.kwaiymx64war5a7f.com
   - DOMAIN-SUFFIX,+.kwangfeng.com
   - DOMAIN-SUFFIX,+.kwggroupholdings.com
@@ -64204,7 +64200,6 @@ payload:
   - DOMAIN-SUFFIX,+.moith.com
   - DOMAIN-SUFFIX,+.mojicb.com
   - DOMAIN-SUFFIX,+.mojichina.net
-  - DOMAIN-SUFFIX,+.mojidoc.com
   - DOMAIN-SUFFIX,+.mojie.app
   - DOMAIN-SUFFIX,+.mojie.co
   - DOMAIN-SUFFIX,+.mojie.kim
@@ -88161,6 +88156,9 @@ payload:
   - DOMAIN-SUFFIX,+.u10086.com
   - DOMAIN-SUFFIX,+.u14.com
   - DOMAIN-SUFFIX,+.u148.net
+  - DOMAIN-SUFFIX,+.u17.com
+  - DOMAIN-SUFFIX,+.u17i.com
+  - DOMAIN-SUFFIX,+.u17t.com
   - DOMAIN-SUFFIX,+.u21a.com
   - DOMAIN-SUFFIX,+.u22e.com
   - DOMAIN-SUFFIX,+.u235.net
@@ -88529,7 +88527,6 @@ payload:
   - DOMAIN-SUFFIX,+.umihome.com
   - DOMAIN-SUFFIX,+.umindex.com
   - DOMAIN-SUFFIX,+.umiplus.com
-  - DOMAIN-SUFFIX,+.umiwi.com
   - DOMAIN-SUFFIX,+.umiwx.com
   - DOMAIN-SUFFIX,+.umjicanvas.com
   - DOMAIN-SUFFIX,+.uml-tech.com
@@ -93405,7 +93402,6 @@ payload:
   - DOMAIN-SUFFIX,+.wskam.com
   - DOMAIN-SUFFIX,+.wskj16818.xyz
   - DOMAIN-SUFFIX,+.wsks.net
-  - DOMAIN-SUFFIX,+.wskwai.com
   - DOMAIN-SUFFIX,+.wslivehls.com
   - DOMAIN-SUFFIX,+.wsljf.xyz
   - DOMAIN-SUFFIX,+.wsngb.com
@@ -108945,6 +108941,7 @@ payload:
   - DOMAIN-SUFFIX,douyinec.com
   - DOMAIN-SUFFIX,douyinfe.com
   - DOMAIN-SUFFIX,douyinliving.com
+  - DOMAIN-SUFFIX,douyinmusicpromotion.com
   - DOMAIN-SUFFIX,douyinpay.com
   - DOMAIN-SUFFIX,douyinpic.com
   - DOMAIN-SUFFIX,douyinstatic.com
@@ -109042,6 +109039,7 @@ payload:
   - DOMAIN-SUFFIX,eceshi.com
   - DOMAIN-SUFFIX,echargenet.com
   - DOMAIN-SUFFIX,ecjobhome.com
+  - DOMAIN-SUFFIX,eckwai.com
   - DOMAIN-SUFFIX,ecloud-gdu.com
   - DOMAIN-SUFFIX,ecukwai.com
   - DOMAIN-SUFFIX,edge.music-choice-play-chaina1.top.comcast.net
@@ -110007,7 +110005,6 @@ payload:
   - DOMAIN-SUFFIX,kekeniu.com
   - DOMAIN-SUFFIX,keniu.com
   - DOMAIN-SUFFIX,keruyun.com
-  - DOMAIN-SUFFIX,kesong.co
   - DOMAIN-SUFFIX,ketangpai.com
   - DOMAIN-SUFFIX,kexinshe.com
   - DOMAIN-SUFFIX,keyoo.com
@@ -110114,6 +110111,9 @@ payload:
   - DOMAIN-SUFFIX,kuyinyun.com
   - DOMAIN-SUFFIX,kuyiso.com
   - DOMAIN-SUFFIX,kwaicdn.com
+  - DOMAIN-SUFFIX,kwaishop.com
+  - DOMAIN-SUFFIX,kwaixiaodian.com
+  - DOMAIN-SUFFIX,kwaiying.com
   - DOMAIN-SUFFIX,kwaizt.com
   - DOMAIN-SUFFIX,kwimgs.com
   - DOMAIN-SUFFIX,kwmu-flash.streamguys1.com
@@ -110500,6 +110500,7 @@ payload:
   - DOMAIN-SUFFIX,mojicdn.com
   - DOMAIN-SUFFIX,mojichina.com
   - DOMAIN-SUFFIX,mojidict.com
+  - DOMAIN-SUFFIX,mojidoc.com
   - DOMAIN-SUFFIX,mokahr.com
   - DOMAIN-SUFFIX,moleecel.com
   - DOMAIN-SUFFIX,moliranran.com
@@ -110812,6 +110813,7 @@ payload:
   - DOMAIN-SUFFIX,qianuni.com
   - DOMAIN-SUFFIX,qianwen.aliyun.com
   - DOMAIN-SUFFIX,qianwen.com
+  - DOMAIN-SUFFIX,qianwenai.com
   - DOMAIN-SUFFIX,qianxin.com
   - DOMAIN-SUFFIX,qianxincdn.com
   - DOMAIN-SUFFIX,qianxuecloud.com
@@ -111441,9 +111443,6 @@ payload:
   - DOMAIN-SUFFIX,txrjy.com
   - DOMAIN-SUFFIX,u-cdn.net
   - DOMAIN-SUFFIX,u.tools
-  - DOMAIN-SUFFIX,u17.com
-  - DOMAIN-SUFFIX,u17i.com
-  - DOMAIN-SUFFIX,u17t.com
   - DOMAIN-SUFFIX,ubnt.com
   - DOMAIN-SUFFIX,ubssdic.com
   - DOMAIN-SUFFIX,ubuntukylin.com
@@ -111490,6 +111489,7 @@ payload:
   - DOMAIN-SUFFIX,ultracachenode.com
   - DOMAIN-SUFFIX,umajor.net
   - DOMAIN-SUFFIX,umetrip.com
+  - DOMAIN-SUFFIX,umiwi.com
   - DOMAIN-SUFFIX,unaming.info
   - DOMAIN-SUFFIX,unaming.net
   - DOMAIN-SUFFIX,uni6rtmp.tulix.tv
@@ -111700,6 +111700,7 @@ payload:
   - DOMAIN-SUFFIX,wsglb.com
   - DOMAIN-SUFFIX,wsglb.net
   - DOMAIN-SUFFIX,wsjqnmmrmv.world
+  - DOMAIN-SUFFIX,wskwai.com
   - DOMAIN-SUFFIX,wsoso.com
   - DOMAIN-SUFFIX,wss.cc
   - DOMAIN-SUFFIX,wss.email
