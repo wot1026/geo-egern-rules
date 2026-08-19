@@ -406,7 +406,6 @@ DOMAIN,weather-map.apple.com
 DOMAIN,weather-map2.apple.com
 DOMAIN,weatherkit.apple.com
 DOMAIN,windbg.download.prss.microsoft.com
-DOMAIN,www.amd.com
 DOMAIN,www.apple.com
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,www.gstatic.com
@@ -64302,6 +64301,7 @@ DOMAIN-SUFFIX,+.moonjer.com
 DOMAIN-SUFFIX,+.moonlian.com
 DOMAIN-SUFFIX,+.moonsec.com
 DOMAIN-SUFFIX,+.moonsees.com
+DOMAIN-SUFFIX,+.moonshot.ai
 DOMAIN-SUFFIX,+.moonstatistics.com
 DOMAIN-SUFFIX,+.moonton.com
 DOMAIN-SUFFIX,+.moontonapp.com
@@ -110505,7 +110505,6 @@ DOMAIN-SUFFIX,moleecel.com
 DOMAIN-SUFFIX,moliranran.com
 DOMAIN-SUFFIX,monika.love
 DOMAIN-SUFFIX,moocollege.com
-DOMAIN-SUFFIX,moonshot.ai
 DOMAIN-SUFFIX,moonvy.com
 DOMAIN-SUFFIX,moonvy.cool
 DOMAIN-SUFFIX,mop.com
