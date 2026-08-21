@@ -108084,7 +108084,6 @@ payload:
   - DOMAIN-SUFFIX,admincdn.com
   - DOMAIN-SUFFIX,admob-cn.com
   - DOMAIN-SUFFIX,adxvip.com
-  - DOMAIN-SUFFIX,afcs.dell.com
   - DOMAIN-SUFFIX,afdian.com
   - DOMAIN-SUFFIX,afdian.net
   - DOMAIN-SUFFIX,afdiancdn.com
@@ -108627,7 +108626,6 @@ payload:
   - DOMAIN-SUFFIX,clickserve.cc-dt.com
   - DOMAIN-SUFFIX,client-update.queniuqe.com
   - DOMAIN-SUFFIX,client.amplifi.com
-  - DOMAIN-SUFFIX,clientperipherals.dell.com
   - DOMAIN-SUFFIX,clk1.top
   - DOMAIN-SUFFIX,clouddn.com
   - DOMAIN-SUFFIX,cloudflare-cn.com
@@ -108774,7 +108772,6 @@ payload:
   - DOMAIN-SUFFIX,ctyunwaf1.com
   - DOMAIN-SUFFIX,ctzcdn.com
   - DOMAIN-SUFFIX,cubead.com
-  - DOMAIN-SUFFIX,customization-cdn.dell.com
   - DOMAIN-SUFFIX,cvte.com
   - DOMAIN-SUFFIX,cwxzx.com
   - DOMAIN-SUFFIX,cxbiji.com
@@ -108840,7 +108837,6 @@ payload:
   - DOMAIN-SUFFIX,ddmc.mobi
   - DOMAIN-SUFFIX,ddmogo.com
   - DOMAIN-SUFFIX,ddooo.com
-  - DOMAIN-SUFFIX,dds.dell.com
   - DOMAIN-SUFFIX,dduser.mobi
   - DOMAIN-SUFFIX,ddxq.mobi
   - DOMAIN-SUFFIX,ddzn.tech
@@ -108892,7 +108888,6 @@ payload:
   - DOMAIN-SUFFIX,djiops.com
   - DOMAIN-SUFFIX,djiservice.org
   - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
-  - DOMAIN-SUFFIX,dl.dell.com
   - DOMAIN-SUFFIX,dl.steam.clngaa.com
   - DOMAIN-SUFFIX,dlgslb.net
   - DOMAIN-SUFFIX,dlnel.com
@@ -109013,9 +109008,6 @@ payload:
   - DOMAIN-SUFFIX,dzw3.com
   - DOMAIN-SUFFIX,dzwww.com
   - DOMAIN-SUFFIX,e1.vdowowza.vip.hk1.tvb.com
-  - DOMAIN-SUFFIX,ea2cn-dev-outlet.dell.com
-  - DOMAIN-SUFFIX,ea2cn-prod-outlet.dell.com
-  - DOMAIN-SUFFIX,ea2cn-staging-outlet.dell.com
   - DOMAIN-SUFFIX,eagsen.com
   - DOMAIN-SUFFIX,easesale.com
   - DOMAIN-SUFFIX,easiu.com
@@ -109060,7 +109052,6 @@ payload:
   - DOMAIN-SUFFIX,elong.com
   - DOMAIN-SUFFIX,elongstatic.com
   - DOMAIN-SUFFIX,emarbox.com
-  - DOMAIN-SUFFIX,emoi-cncdn.bing.com
   - DOMAIN-SUFFIX,emoriko.com
   - DOMAIN-SUFFIX,emumax.com
   - DOMAIN-SUFFIX,end-api.shallow.ink
@@ -109123,7 +109114,6 @@ payload:
   - DOMAIN-SUFFIX,fbank.com
   - DOMAIN-SUFFIX,fcbox.com
   - DOMAIN-SUFFIX,fcboxmall.com
-  - DOMAIN-SUFFIX,fcs.dell.com
   - DOMAIN-SUFFIX,fdcyun.com
   - DOMAIN-SUFFIX,feidee.com
   - DOMAIN-SUFFIX,feidee.net
@@ -109253,10 +109243,6 @@ payload:
   - DOMAIN-SUFFIX,frp-tag.com
   - DOMAIN-SUFFIX,fsfund.com
   - DOMAIN-SUFFIX,fspcdn.com
-  - DOMAIN-SUFFIX,fta.dell.com
-  - DOMAIN-SUFFIX,ftaapj.dell.com
-  - DOMAIN-SUFFIX,ftaemea.dell.com
-  - DOMAIN-SUFFIX,ftasitapj.dell.com
   - DOMAIN-SUFFIX,ftfund.com
   - DOMAIN-SUFFIX,fugetech.com
   - DOMAIN-SUFFIX,fun.tv
@@ -109297,8 +109283,6 @@ payload:
   - DOMAIN-SUFFIX,gaoshouyou.com
   - DOMAIN-SUFFIX,gaoxiaojob.com
   - DOMAIN-SUFFIX,gayotv.net
-  - DOMAIN-SUFFIX,gbxgateway-dev.dell.com
-  - DOMAIN-SUFFIX,gbxgateway.dell.com
   - DOMAIN-SUFFIX,gcloudcs.com
   - DOMAIN-SUFFIX,gcloudcstest.com
   - DOMAIN-SUFFIX,gcloudcstestonly.com
@@ -109655,7 +109639,6 @@ payload:
   - DOMAIN-SUFFIX,hypercachenode.com
   - DOMAIN-SUFFIX,hzdtv.tv
   - DOMAIN-SUFFIX,hzman.net
-  - DOMAIN-SUFFIX,i.dell.com
   - DOMAIN-SUFFIX,i.pki.goog
   - DOMAIN-SUFFIX,i360mall.com
   - DOMAIN-SUFFIX,i3839.com
@@ -110599,7 +110582,6 @@ payload:
   - DOMAIN-SUFFIX,nextstudios.com
   - DOMAIN-SUFFIX,nextvid.net
   - DOMAIN-SUFFIX,nextworkshop.net
-  - DOMAIN-SUFFIX,nexus.dell.com
   - DOMAIN-SUFFIX,nffund.com
   - DOMAIN-SUFFIX,nfpeople.com
   - DOMAIN-SUFFIX,ngabbs.com
@@ -110702,7 +110684,6 @@ payload:
   - DOMAIN-SUFFIX,owsgo.com
   - DOMAIN-SUFFIX,ozonabc.com
   - DOMAIN-SUFFIX,ozonbigsell.com
-  - DOMAIN-SUFFIX,p.cdn.persaas.dell.com
   - DOMAIN-SUFFIX,p2cdn.com
   - DOMAIN-SUFFIX,p2peye.com
   - DOMAIN-SUFFIX,p5w.net
@@ -110979,7 +110960,6 @@ payload:
   - DOMAIN-SUFFIX,sc96655.com
   - DOMAIN-SUFFIX,scbaijia.com
   - DOMAIN-SUFFIX,scdng.com
-  - DOMAIN-SUFFIX,scene7-cdn.dell.com
   - DOMAIN-SUFFIX,scgchc.com
   - DOMAIN-SUFFIX,schoopia.com
   - DOMAIN-SUFFIX,sckg.com
@@ -111091,7 +111071,6 @@ payload:
   - DOMAIN-SUFFIX,shuxinyc.com
   - DOMAIN-SUFFIX,shyxhy.com
   - DOMAIN-SUFFIX,shzq.com
-  - DOMAIN-SUFFIX,si.cdn.dell.com
   - DOMAIN-SUFFIX,sichuanair.com
   - DOMAIN-SUFFIX,sifou.com
   - DOMAIN-SUFFIX,simei8.com
@@ -111115,7 +111094,6 @@ payload:
   - DOMAIN-SUFFIX,slive.ytn.co.kr
   - DOMAIN-SUFFIX,slk1.net
   - DOMAIN-SUFFIX,sllssrq.com
-  - DOMAIN-SUFFIX,sm.dell.com
   - DOMAIN-SUFFIX,smartmidea.net
   - DOMAIN-SUFFIX,sms.imagetasks.com
   - DOMAIN-SUFFIX,smuszh.com
@@ -111125,8 +111103,6 @@ payload:
   - DOMAIN-SUFFIX,snodehome.com
   - DOMAIN-SUFFIX,snowballsecurities.com
   - DOMAIN-SUFFIX,snowballtech.com
-  - DOMAIN-SUFFIX,snp.cdn.dell.com
-  - DOMAIN-SUFFIX,snpi.dell.com
   - DOMAIN-SUFFIX,snxw.com
   - DOMAIN-SUFFIX,so.com
   - DOMAIN-SUFFIX,sobot.com
@@ -111229,7 +111205,6 @@ payload:
   - DOMAIN-SUFFIX,superlib.net
   - DOMAIN-SUFFIX,supermap.com
   - DOMAIN-SUFFIX,supermapcloud.com
-  - DOMAIN-SUFFIX,supportassist.dell.com
   - DOMAIN-SUFFIX,surerp.com
   - DOMAIN-SUFFIX,sursung.com
   - DOMAIN-SUFFIX,suu-fun.com
@@ -111399,7 +111374,6 @@ payload:
   - DOMAIN-SUFFIX,touzid.com
   - DOMAIN-SUFFIX,tower.im
   - DOMAIN-SUFFIX,tower0788.com
-  - DOMAIN-SUFFIX,tp.louisvuitton.com
   - DOMAIN-SUFFIX,tpyzq.com
   - DOMAIN-SUFFIX,tracup.com
   - DOMAIN-SUFFIX,trademessenger.com
@@ -111513,7 +111487,6 @@ payload:
   - DOMAIN-SUFFIX,update.crashlytics.com
   - DOMAIN-SUFFIX,upe.net
   - DOMAIN-SUFFIX,upfos.com
-  - DOMAIN-SUFFIX,uplaypc-s-ubisoft.cdn.ubi.com
   - DOMAIN-SUFFIX,upyun.com
   - DOMAIN-SUFFIX,urselect.com
   - DOMAIN-SUFFIX,urumqi-air.com
@@ -111719,9 +111692,7 @@ payload:
   - DOMAIN-SUFFIX,wuwm.streamguys1.com
   - DOMAIN-SUFFIX,wuximediaglobal.com
   - DOMAIN-SUFFIX,wuyou.net
-  - DOMAIN-SUFFIX,www-csb.dell.com
   - DOMAIN-SUFFIX,www.cbsnews.com
-  - DOMAIN-SUFFIX,www.dell.com
   - DOMAIN-SUFFIX,www.destinationurl.com
   - DOMAIN-SUFFIX,www.filmon.com
   - DOMAIN-SUFFIX,www.pxcc.com
