@@ -1,13 +1,13 @@
 # Build Summary
 
-Last built: 2026-08-25 06:54 UTC+08:00 (UTC+8)
+Last built: 2026-08-26 06:55 UTC+08:00 (UTC+8)
 
 | Category | Action | Total | Suffix | Full | Keyword | Regexp Dropped |
 |---|---|---|---|---|---|---|
-| china_direct | DIRECT | 112203 | 111791 | 412 | 0 | 7 |
+| china_direct | DIRECT | 112269 | 111857 | 412 | 0 | 7 |
 | google_cn | DIRECT | 112 | 0 | 112 | 0 | 0 |
 | apple_cn | DIRECT | 164 | 0 | 164 | 0 | 0 |
-| global_proxy | PROXY | 23363 | 23267 | 96 | 0 | 151 |
+| global_proxy | PROXY | 23367 | 23271 | 96 | 0 | 151 |
 | google | PROXY | 690 | 684 | 1 | 5 | 0 |
 | github | PROXY | 31 | 30 | 0 | 1 | 0 |
 | netflix | PROXY | 36 | 30 | 2 | 4 | 0 |
