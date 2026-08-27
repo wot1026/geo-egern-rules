@@ -63040,7 +63040,6 @@ payload:
   - DOMAIN-SUFFIX,+.metatube.pro
   - DOMAIN-SUFFIX,+.metavatar.cc
   - DOMAIN-SUFFIX,+.metawalle.com
-  - DOMAIN-SUFFIX,+.metax-tech.com
   - DOMAIN-SUFFIX,+.metayuanjing.com
   - DOMAIN-SUFFIX,+.metcn.com
   - DOMAIN-SUFFIX,+.meten.com
@@ -110483,6 +110482,7 @@ payload:
   - DOMAIN-SUFFIX,merach.com
   - DOMAIN-SUFFIX,meta.law
   - DOMAIN-SUFFIX,metalrevolution.com
+  - DOMAIN-SUFFIX,metax-tech.com
   - DOMAIN-SUFFIX,mfcteda.com
   - DOMAIN-SUFFIX,mfk.com
   - DOMAIN-SUFFIX,mfuns.net
