@@ -22953,7 +22953,6 @@ payload:
   - DOMAIN-SUFFIX,+.cnautotool.com
   - DOMAIN-SUFFIX,+.cnazd.com
   - DOMAIN-SUFFIX,+.cnb.run
-  - DOMAIN-SUFFIX,+.cnb.space
   - DOMAIN-SUFFIX,+.cnbabylon.com
   - DOMAIN-SUFFIX,+.cnbaiyin.com
   - DOMAIN-SUFFIX,+.cnball.net
@@ -108489,6 +108488,7 @@ payload:
   - DOMAIN-SUFFIX,cn.windowssearch.com
   - DOMAIN-SUFFIX,cnanzhi.com
   - DOMAIN-SUFFIX,cnb.cool
+  - DOMAIN-SUFFIX,cnb.space
   - DOMAIN-SUFFIX,cnbksy.com
   - DOMAIN-SUFFIX,cnblogs.com
   - DOMAIN-SUFFIX,cnblogs.vip
