@@ -1,20 +1,20 @@
 # Build Summary
 
-Last built: 2026-10-15 08:43 UTC+08:00 (UTC+8)
+Last built: 2026-10-16 08:35 UTC+08:00 (UTC+8)
 
 | Category | Action | Total | Suffix | Full | Keyword | Regexp Dropped |
 |---|---|---|---|---|---|---|
-| china_direct | DIRECT | 111727 | 111315 | 412 | 0 | 7 |
+| china_direct | DIRECT | 111440 | 111028 | 412 | 0 | 7 |
 | google_cn | DIRECT | 112 | 0 | 112 | 0 | 0 |
 | apple_cn | DIRECT | 165 | 0 | 165 | 0 | 0 |
-| global_proxy | PROXY | 23485 | 23389 | 96 | 0 | 151 |
+| global_proxy | PROXY | 23490 | 23394 | 96 | 0 | 151 |
 | google | PROXY | 690 | 684 | 1 | 5 | 0 |
 | github | PROXY | 31 | 30 | 0 | 1 | 0 |
 | netflix | PROXY | 36 | 30 | 2 | 4 | 0 |
 | openai | PROXY | 32 | 24 | 7 | 1 | 0 |
 | telegram | PROXY | 25 | 22 | 2 | 1 | 0 |
 | twitter | PROXY | 27 | 26 | 0 | 1 | 0 |
-| tiktok | PROXY | 31 | 25 | 4 | 2 | 0 |
+| tiktok | PROXY | 34 | 28 | 4 | 2 | 0 |
 | youtube | PROXY | 180 | 179 | 0 | 1 | 0 |
 | spotify | PROXY | 27 | 20 | 6 | 1 | 0 |
 | microsoft | PROXY | 668 | 663 | 1 | 4 | 0 |
