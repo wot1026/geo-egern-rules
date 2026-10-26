@@ -1,13 +1,13 @@
 # Build Summary
 
-Last built: 2026-10-25 08:27 UTC+08:00 (UTC+8)
+Last built: 2026-10-26 08:34 UTC+08:00 (UTC+8)
 
 | Category | Action | Total | Suffix | Full | Keyword | Regexp Dropped |
 |---|---|---|---|---|---|---|
-| china_direct | DIRECT | 111357 | 110946 | 411 | 0 | 7 |
+| china_direct | DIRECT | 111080 | 110669 | 411 | 0 | 7 |
 | google_cn | DIRECT | 112 | 0 | 112 | 0 | 0 |
 | apple_cn | DIRECT | 165 | 0 | 165 | 0 | 0 |
-| global_proxy | PROXY | 23556 | 23460 | 96 | 0 | 151 |
+| global_proxy | PROXY | 23564 | 23468 | 96 | 0 | 151 |
 | google | PROXY | 690 | 684 | 1 | 5 | 0 |
 | github | PROXY | 31 | 30 | 0 | 1 | 0 |
 | netflix | PROXY | 36 | 30 | 2 | 4 | 0 |
@@ -19,7 +19,7 @@ Last built: 2026-10-25 08:27 UTC+08:00 (UTC+8)
 | spotify | PROXY | 27 | 20 | 6 | 1 | 0 |
 | microsoft | PROXY | 668 | 663 | 1 | 4 | 0 |
 | onedrive | DIRECT | 17 | 14 | 0 | 3 | 0 |
-| apple_global | PROXY | 1567 | 1551 | 9 | 7 | 0 |
+| apple_global | PROXY | 1566 | 1550 | 9 | 7 | 0 |
 | applemusic | PROXY | 9 | 3 | 6 | 0 | 0 |
 | bilibili | DIRECT | 115 | 62 | 53 | 0 | 0 |
 | abema | PROXY | 23 | 22 | 0 | 1 | 0 |
