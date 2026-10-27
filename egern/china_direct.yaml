@@ -51356,6 +51356,7 @@ payload:
   - DOMAIN-SUFFIX,+.jikewan.com
   - DOMAIN-SUFFIX,+.jikexiaojiang.com
   - DOMAIN-SUFFIX,+.jikexiu.com
+  - DOMAIN-SUFFIX,+.jikipedia.com
   - DOMAIN-SUFFIX,+.jikstatic.com
   - DOMAIN-SUFFIX,+.jikuai.work
   - DOMAIN-SUFFIX,+.jilailawyer.com
@@ -94221,7 +94222,6 @@ payload:
   - DOMAIN-SUFFIX,+.xiaomai5.com
   - DOMAIN-SUFFIX,+.xiaomaidong.com
   - DOMAIN-SUFFIX,+.xiaomaigongkao.com
-  - DOMAIN-SUFFIX,+.xiaomaigui.com
   - DOMAIN-SUFFIX,+.xiaomaiketang.com
   - DOMAIN-SUFFIX,+.xiaomaiuzu.com
   - DOMAIN-SUFFIX,+.xiaomajia.com
@@ -107937,6 +107937,7 @@ payload:
   - DOMAIN-SUFFIX,file.hhtv.cc
   - DOMAIN-SUFFIX,file.mb.leshantv.net
   - DOMAIN-SUFFIX,filez.com
+  - DOMAIN-SUFFIX,filmorigin.com
   - DOMAIN-SUFFIX,fimmu.com
   - DOMAIN-SUFFIX,finchina.com
   - DOMAIN-SUFFIX,finclip.com
@@ -108635,7 +108636,6 @@ payload:
   - DOMAIN-SUFFIX,jikecdn.com
   - DOMAIN-SUFFIX,jikeiot.cloud
   - DOMAIN-SUFFIX,jikexueyuan.com
-  - DOMAIN-SUFFIX,jikipedia.com
   - DOMAIN-SUFFIX,jin10.com
   - DOMAIN-SUFFIX,jinchutou.com
   - DOMAIN-SUFFIX,jindidata.com
@@ -108771,6 +108771,7 @@ payload:
   - DOMAIN-SUFFIX,kaipuyun.net
   - DOMAIN-SUFFIX,kaixin001.com
   - DOMAIN-SUFFIX,kajicam.com
+  - DOMAIN-SUFFIX,kakaxing.com
   - DOMAIN-SUFFIX,kameng98.com
   - DOMAIN-SUFFIX,kanimg.com
   - DOMAIN-SUFFIX,kankanews.com
@@ -110605,6 +110606,7 @@ payload:
   - DOMAIN-SUFFIX,xiaoluyouxuan.com
   - DOMAIN-SUFFIX,xiaoluzhidian.com
   - DOMAIN-SUFFIX,xiaomaicn.com
+  - DOMAIN-SUFFIX,xiaomaigui.com
   - DOMAIN-SUFFIX,xiaomengai.com
   - DOMAIN-SUFFIX,xiaomimimo.com
   - DOMAIN-SUFFIX,xiaomingtaiji.com
