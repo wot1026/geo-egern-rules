@@ -107905,6 +107905,9 @@ payload:
   - DOMAIN-SUFFIX,fash1043.cloudycdn.services
   - DOMAIN-SUFFIX,fastapi.net
   - DOMAIN-SUFFIX,fastcdn.com
+  - DOMAIN-SUFFIX,favonis.cloud
+  - DOMAIN-SUFFIX,favonis.com
+  - DOMAIN-SUFFIX,favonis.space
   - DOMAIN-SUFFIX,faxingbao.com
   - DOMAIN-SUFFIX,fbank.com
   - DOMAIN-SUFFIX,fcbox.com
