@@ -32170,7 +32170,6 @@ payload:
   - DOMAIN-SUFFIX,+.favdeb.com
   - DOMAIN-SUFFIX,+.favopen.com
   - DOMAIN-SUFFIX,+.favorites.ren
-  - DOMAIN-SUFFIX,+.faw-vw.com
   - DOMAIN-SUFFIX,+.faw.com
   - DOMAIN-SUFFIX,+.fawan.com
   - DOMAIN-SUFFIX,+.faway.com
@@ -107848,6 +107847,7 @@ payload:
   - DOMAIN-SUFFIX,ebtrust.com
   - DOMAIN-SUFFIX,eceshi.com
   - DOMAIN-SUFFIX,echargenet.com
+  - DOMAIN-SUFFIX,echooai.com
   - DOMAIN-SUFFIX,ecjobhome.com
   - DOMAIN-SUFFIX,eckwai.com
   - DOMAIN-SUFFIX,ecloud-gdu.com
@@ -107933,7 +107933,9 @@ payload:
   - DOMAIN-SUFFIX,favonis.cloud
   - DOMAIN-SUFFIX,favonis.com
   - DOMAIN-SUFFIX,favonis.space
+  - DOMAIN-SUFFIX,faw-vw.com
   - DOMAIN-SUFFIX,faxingbao.com
+  - DOMAIN-SUFFIX,fazhipro.com
   - DOMAIN-SUFFIX,fbank.com
   - DOMAIN-SUFFIX,fcbox.com
   - DOMAIN-SUFFIX,fcboxmall.com
@@ -109790,6 +109792,7 @@ payload:
   - DOMAIN-SUFFIX,ruubypay.com
   - DOMAIN-SUFFIX,rwkv.com
   - DOMAIN-SUFFIX,rzrc114.com
+  - DOMAIN-SUFFIX,saasfz.com
   - DOMAIN-SUFFIX,saasops.tech
   - DOMAIN-SUFFIX,saayaa.com
   - DOMAIN-SUFFIX,saduck.top
