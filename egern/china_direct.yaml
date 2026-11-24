@@ -89194,7 +89194,6 @@ payload:
   - DOMAIN-SUFFIX,+.wahahakid.org
   - DOMAIN-SUFFIX,+.waheaven.com
   - DOMAIN-SUFFIX,+.wahlap.com
-  - DOMAIN-SUFFIX,+.wahlap.net
   - DOMAIN-SUFFIX,+.wahsanggroup.com
   - DOMAIN-SUFFIX,+.wahtaisz.com
   - DOMAIN-SUFFIX,+.wahuto.com
@@ -107393,6 +107392,7 @@ payload:
   - DOMAIN-SUFFIX,chugou360.com
   - DOMAIN-SUFFIX,chuimg.com
   - DOMAIN-SUFFIX,chujingapp.com
+  - DOMAIN-SUFFIX,chunithm.wahlap.com
   - DOMAIN-SUFFIX,chunyu.mobi
   - DOMAIN-SUFFIX,chunyuyisheng.com
   - DOMAIN-SUFFIX,chushi.cool
@@ -109183,6 +109183,7 @@ payload:
   - DOMAIN-SUFFIX,magedu.com
   - DOMAIN-SUFFIX,maiche.com
   - DOMAIN-SUFFIX,mail4399.com
+  - DOMAIN-SUFFIX,maimai.wahlap.com
   - DOMAIN-SUFFIX,maimemo.com
   - DOMAIN-SUFFIX,maimemostatus.com
   - DOMAIN-SUFFIX,maindown4399.com
@@ -110151,6 +110152,7 @@ payload:
   - DOMAIN-SUFFIX,tfzq.com
   - DOMAIN-SUFFIX,tgbus.com
   - DOMAIN-SUFFIX,tggfl.com
+  - DOMAIN-SUFFIX,tgk-wcaime.wahlap.com
   - DOMAIN-SUFFIX,tgpro.top
   - DOMAIN-SUFFIX,tgprocs.net
   - DOMAIN-SUFFIX,th-music.com
@@ -110419,6 +110421,7 @@ payload:
   - DOMAIN-SUFFIX,vxhcm.com
   - DOMAIN-SUFFIX,vzuu.com
   - DOMAIN-SUFFIX,w3.wifijiangyin.com
+  - DOMAIN-SUFFIX,wahlap.net
   - DOMAIN-SUFFIX,waifushangcheng.com
   - DOMAIN-SUFFIX,wallstcn.com
   - DOMAIN-SUFFIX,wallstreetcn.com
